@@ -1,0 +1,213 @@
+# depslib dependency file v1.0
+1548008406 source:c:\users\sk-landry\desktop\nero game project\nero engine sdk v0.9.0\projects\adventure scene\main.cpp
+	<Nero/engine/DevEngine.h>
+	"AdventureScene.h"
+	<Nero/engine/RenderEngine.h>
+	"AdventureScene.h"
+	"LoadingScreen.h"
+
+1548005644 c:\users\sk-landry\desktop\nero game project\nero engine sdk v0.9.0\projects\adventure scene\include\adventurescene.h
+	<Nero/scene/Scene.h>
+	<Nero/gamelib.h>
+	"Player.h"
+
+1548001265 c:\users\sk-landry\desktop\nero game project\nero engine sdk v0.9.0\projects\adventure scene\include\player.h
+	<Nero/gamelib.h>
+	<Nero/object/PhysicObject.h>
+	<Nero/object/AnimationObject.h>
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Dynamics/Joints/b2WeldJoint.h>
+	<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+
+1548001594 c:\users\sk-landry\desktop\nero game project\nero engine sdk v0.9.0\projects\adventure scene\include\loadingscreen.h
+	<Nero/engine/StartupScreen.h>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Sprite.hpp>
+
+1546018483 source:c:\users\sk-landry\desktop\nero game project\nero engine sdk v0.9.0\projects\adventure scene\resources.rc
+
+1548006490 source:c:\users\sk-landry\desktop\nero game project\nero engine sdk v0.9.0\projects\adventure scene\src\loadingscreen.cpp
+	"LoadingScreen.h"
+	<Nero/utility/Utility.h>
+
+1548006683 source:c:\users\sk-landry\desktop\nero game project\nero engine sdk v0.9.0\projects\adventure scene\src\player.cpp
+	"Player.h"
+	"ConstantPool.h"
+	<Nero/utility/Utility.h>
+
+1548003948 c:\users\sk-landry\desktop\nero game project\nero engine sdk v0.9.0\projects\adventure scene\include\constantpool.h
+
+1548544460 source:c:\users\sk-landry\desktop\nero game project\nero engine sdk v0.9.0\projects\adventure scene\src\adventurescene.cpp
+	"AdventureScene.h"
+	"ConstantPool.h"
+	<Nero/scene/CollisionRule.h>
+	<Nero/model/FrontScreen.h>
+	<Nero/object/TextObject.h>
+
+1553912452 source:c:\users\sk-landry\desktop\nero game engine 1.0.0\projects\adventure scene\main.cpp
+	<Nero/engine/DevEngine.h>
+	"AdventureScene.h"
+	<Nero/engine/RenderEngine.h>
+	"AdventureScene.h"
+	"LoadingScreen.h"
+
+1555662387 c:\users\sk-landry\desktop\nero game engine 1.0.0\projects\adventure scene\include\adventurescene.h
+	<Nero/scene/Scene.h>
+	<Nero/gamelib.h>
+	"Player.h"
+
+1552760021 c:\users\sk-landry\desktop\nero game engine 1.0.0\projects\adventure scene\include\player.h
+	<Nero/gamelib.h>
+	<Nero/object/PhysicObject.h>
+	<Nero/object/AnimationObject.h>
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Dynamics/Joints/b2WeldJoint.h>
+	<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+
+1552760027 c:\users\sk-landry\desktop\nero game engine 1.0.0\projects\adventure scene\include\loadingscreen.h
+	<Nero/engine/StartupScreen.h>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Sprite.hpp>
+
+1546018483 source:c:\users\sk-landry\desktop\nero game engine 1.0.0\projects\adventure scene\resources.rc
+
+1555662547 source:c:\users\sk-landry\desktop\nero game engine 1.0.0\projects\adventure scene\src\adventurescene.cpp
+	"AdventureScene.h"
+	"ConstantPool.h"
+	<Nero/scene/CollisionRule.h>
+	<Nero/model/FrontScreen.h>
+	<Nero/object/TextObject.h>
+	<Nero/model/JointProperty.h>
+	<Nero/model/PrismaticJoint.h>
+
+1554033099 c:\users\sk-landry\desktop\nero game engine 1.0.0\projects\adventure scene\include\constantpool.h
+
+1552760070 source:c:\users\sk-landry\desktop\nero game engine 1.0.0\projects\adventure scene\src\loadingscreen.cpp
+	"LoadingScreen.h"
+	<Nero/utility/Utility.h>
+
+1553344363 source:c:\users\sk-landry\desktop\nero game engine 1.0.0\projects\adventure scene\src\player.cpp
+	"Player.h"
+	"ConstantPool.h"
+	<Nero/utility/Utility.h>
+
+1546040083 source:c:\users\sk-landry\desktop\new folder\nero-game-engine-r1.0.3\projects\adventure scene v0.3\resources.rc
+
+1552781670 source:c:\users\sk-landry\desktop\new folder\nero-game-engine-r1.0.3\projects\adventure scene v0.3\src\loadingscreen.cpp
+	"LoadingScreen.h"
+	<Nero/utility/Utility.h>
+
+1552781627 c:\users\sk-landry\desktop\new folder\nero-game-engine-r1.0.3\projects\adventure scene v0.3\include\loadingscreen.h
+	<Nero/engine/StartupScreen.h>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Sprite.hpp>
+
+1553365963 source:c:\users\sk-landry\desktop\new folder\nero-game-engine-r1.0.3\projects\adventure scene v0.3\src\player.cpp
+	"Player.h"
+	"ConstantPool.h"
+	<Nero/utility/Utility.h>
+
+1552781621 c:\users\sk-landry\desktop\new folder\nero-game-engine-r1.0.3\projects\adventure scene v0.3\include\player.h
+	<Nero/gamelib.h>
+	<Nero/object/PhysicObject.h>
+	<Nero/object/AnimationObject.h>
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Dynamics/Joints/b2WeldJoint.h>
+	<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+
+1554054699 c:\users\sk-landry\desktop\new folder\nero-game-engine-r1.0.3\projects\adventure scene v0.3\include\constantpool.h
+
+1546040083 source:c:\users\sk-landry\desktop\nero-game-engine-r1.0.4\projects\adventure scene v0.4\resources.rc
+
+1598400229 source:c:\users\sk-landry\desktop\nero-game-engine-r1.0.4\projects\adventure scene v0.4\src\adventurescene.cpp
+	"AdventureScene.h"
+	"ConstantPool.h"
+	<Nero/scene/CollisionRule.h>
+	<Nero/model/FrontScreen.h>
+	<Nero/object/TextObject.h>
+	<Nero/model/JointProperty.h>
+	<Nero/model/PrismaticJoint.h>
+
+1593395603 c:\users\sk-landry\desktop\nero-game-engine-r1.0.4\projects\adventure scene v0.4\include\adventurescene.h
+	<Nero/scene/Scene.h>
+	<Nero/gamelib.h>
+	"Player.h"
+
+1593395564 c:\users\sk-landry\desktop\nero-game-engine-r1.0.4\projects\adventure scene v0.4\include\player.h
+	<Nero/gamelib.h>
+	<Nero/object/PhysicObject.h>
+	<Nero/object/AnimationObject.h>
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Dynamics/Joints/b2WeldJoint.h>
+	<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+
+1593395558 c:\users\sk-landry\desktop\nero-game-engine-r1.0.4\projects\adventure scene v0.4\include\constantpool.h
+
+1552781670 source:c:\users\sk-landry\desktop\nero-game-engine-r1.0.4\projects\adventure scene v0.4\src\loadingscreen.cpp
+	"LoadingScreen.h"
+	<Nero/utility/Utility.h>
+
+1593395561 c:\users\sk-landry\desktop\nero-game-engine-r1.0.4\projects\adventure scene v0.4\include\loadingscreen.h
+	<Nero/engine/StartupScreen.h>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Sprite.hpp>
+
+1553365963 source:c:\users\sk-landry\desktop\nero-game-engine-r1.0.4\projects\adventure scene v0.4\src\player.cpp
+	"Player.h"
+	"ConstantPool.h"
+	<Nero/utility/Utility.h>
+
+1593395055 source:c:\users\sk-landry\desktop\nero-game-engine-r1.0.4\projects\adventure scene v0.4\main.cpp
+	<Nero/engine/DevEngine.h>
+	"AdventureScene.h"
+	<Nero/engine/RenderEngine.h>
+	"AdventureScene.h"
+	"LoadingScreen.h"
+
+1593395055 source:c:\users\sk-landry\desktop\nero-game-engine-r1.0.5\projects\adventure scene v0.5\main.cpp
+	<Nero/engine/DevEngine.h>
+	"AdventureScene.h"
+	<Nero/engine/RenderEngine.h>
+	"AdventureScene.h"
+	"LoadingScreen.h"
+
+1593395603 c:\users\sk-landry\desktop\nero-game-engine-r1.0.5\projects\adventure scene v0.5\include\adventurescene.h
+	<Nero/scene/Scene.h>
+	<Nero/gamelib.h>
+	"Player.h"
+
+1593395564 c:\users\sk-landry\desktop\nero-game-engine-r1.0.5\projects\adventure scene v0.5\include\player.h
+	<Nero/gamelib.h>
+	<Nero/object/PhysicObject.h>
+	<Nero/object/AnimationObject.h>
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Dynamics/Joints/b2WeldJoint.h>
+	<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+
+1593395561 c:\users\sk-landry\desktop\nero-game-engine-r1.0.5\projects\adventure scene v0.5\include\loadingscreen.h
+	<Nero/engine/StartupScreen.h>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Sprite.hpp>
+
+1546040083 source:c:\users\sk-landry\desktop\nero-game-engine-r1.0.5\projects\adventure scene v0.5\resources.rc
+
+1598400229 source:c:\users\sk-landry\desktop\nero-game-engine-r1.0.5\projects\adventure scene v0.5\src\adventurescene.cpp
+	"AdventureScene.h"
+	"ConstantPool.h"
+	<Nero/scene/CollisionRule.h>
+	<Nero/model/FrontScreen.h>
+	<Nero/object/TextObject.h>
+	<Nero/model/JointProperty.h>
+	<Nero/model/PrismaticJoint.h>
+
+1593395558 c:\users\sk-landry\desktop\nero-game-engine-r1.0.5\projects\adventure scene v0.5\include\constantpool.h
+
+1552781670 source:c:\users\sk-landry\desktop\nero-game-engine-r1.0.5\projects\adventure scene v0.5\src\loadingscreen.cpp
+	"LoadingScreen.h"
+	<Nero/utility/Utility.h>
+
+1553365963 source:c:\users\sk-landry\desktop\nero-game-engine-r1.0.5\projects\adventure scene v0.5\src\player.cpp
+	"Player.h"
+	"ConstantPool.h"
+	<Nero/utility/Utility.h>
+
